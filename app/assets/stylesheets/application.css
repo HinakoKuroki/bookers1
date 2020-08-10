@@ -44,12 +44,15 @@ label{
     display: block;
 }
 table th{
-    /* font-weight: bold; */
     padding: 3px;
 }
 table td{
     padding: 3px;
 }
-.text-field, .text-area{
+.book-title, .book-body{
     margin-bottom: 10px;
+}
+
+#notice{
+    color: green;
 }
